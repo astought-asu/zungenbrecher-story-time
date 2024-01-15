@@ -21,6 +21,6 @@ Team exercise story activity.
 [![](https://img.shields.io/badge/eakopov-39d353?style=for-the-badge)](https://github.com/eakopov)
 [![](https://img.shields.io/badge/Jheathc1-1D9BF0?style=for-the-badge)](https://github.com/Jheathc1)
 [![](https://img.shields.io/badge/scortezb-0033FF?style=for-the-badge)](https://github.com/scortezb)
-[![](https://img.shields.io/badge/astought-asu-blueviolet?style=for-the-badge)](https://github.com/astought-asu)
+[![](https://img.shields.io/badge/astoughtasu-blueviolet?style=for-the-badge)](https://github.com/astought-asu)
 [![](https://img.shields.io/badge/fabianzelaya-fe2c55?style=for-the-badge)](https://github.com/fabianzelaya)
 <!--NULL-->
