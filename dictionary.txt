@@ -1,24 +1,26 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot 
-Klimaanlage 
-Rammstein 
-Porsche
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+					 Meaning of German words
+
+Raesfeld: Municipality of Germnay.
+Flughafen: Airpot.
+Berlin: Capital of germany.
+Bratwurst: Type of German sausage.
+Hauptstrasse: Main street, maint road, high road.
+Brot: Loaf of bread.
+Klimaanlage: air conditioner.
+Rammstein: Heavy metal band.
+Porsche: Car brand.
+BMW: Car brand.
+Biergarten: Beer garden.
+Ratskeller: A usually basement tavern or restaurant.
+Dirndel: Young woman.
+Lederhose: leather pants.
+Schloss: Lock.
+wettbewerbsfaehig: Competitive.
+Mehlhase: Our Professor's last name.
+Gebaeck: Pastries.
+Baeckerei: Bakery.
+Hund: Dog.
+Doener: Doner (Not sure what the exact meaning is).
+Apfelkuchen: Apple Cake.
+Schloss: Can also mean a German castle of manor house.
+Eltz: Family name.
