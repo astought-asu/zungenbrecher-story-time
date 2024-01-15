@@ -13,5 +13,5 @@
 */
 ```
 
-# Zungenbrecher Sory Time
+# Zungenbrecher Story Time
 Team exercise story activity.
