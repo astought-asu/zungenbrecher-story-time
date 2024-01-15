@@ -15,3 +15,12 @@
 
 # Zungenbrecher Story Time
 Team exercise story activity.
+
+## Team
+
+[![](https://img.shields.io/badge/github-39d353?style=for-the-badge)](https://github.com/eakopov)
+[![](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge)](https://github.com/Jheathc1)
+[![](https://img.shields.io/badge/linkedin-0033FF?style=for-the-badge)](https://github.com/scortezb)
+[![](https://img.shields.io/badge/instagram-blueviolet?style=for-the-badge)](https://github.com/astought-asu)
+[![](https://img.shields.io/badge/tiktok-fe2c55?style=for-the-badge)](https://github.com/fabianzelaya)
+<!--NULL-->
