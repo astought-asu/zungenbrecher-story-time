@@ -24,5 +24,5 @@
 [![](https://img.shields.io/badge/scortezb-0033FF?style=for-the-badge)](https://github.com/scortezb)
 [![](https://img.shields.io/badge/astoughtasu-blueviolet?style=for-the-badge)](https://github.com/astought-asu)
 [![](https://img.shields.io/badge/fabianzelaya-fe2c55?style=for-the-badge)](https://github.com/fabianzelaya)
-[![](https://img.shields.io/badge/kylejones-fe2c55?style=for-the-badge)](https://github.com/kmjone67)
+[![](https://img.shields.io/badge/kylejones-lightgrey?style=for-the-badge)](https://github.com/kmjone67)
 <!--NULL-->
