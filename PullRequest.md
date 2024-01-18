@@ -6,3 +6,4 @@
 * Alison Stoughton https://github.com/mfogelso/ser316-icebreaker/pull/4
 * Sergio Burgos https://github.com/jaquinn5/KaffeeKlatsch_StoryTime/pull/5
 * Fabian Zelaya https://github.com/dlsmallw/TeamKuddelmuddel316/pull/14
+* Kyle Jones https://github.com/bvmanley/Holterdiepolter_Storytime/pull/8
